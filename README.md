@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 <!-- token-badge:start -->
-[![Token Badge](https://token-badge.vercel.app/v1/badges/lucifinil.svg)](https://token-badge.vercel.app/v1/badges/lucifinil)
+[![Token Badge](https://token-badge.vercel.app/v1/badges/lucifinil.svg)](https://token-badge.vercel.app/u/lucifinil)
 <!-- token-badge:end -->
